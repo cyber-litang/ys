@@ -1,0 +1,9 @@
+[mail]
+domain = "smtp.exmail.qq.com"
+user = "<your mail>@bupt.edu.cn"
+password = "<your smtp password>"
+
+[ys]
+always = true # true indacates always send mail
+user = "<your id>"
+password = "<your password>"
